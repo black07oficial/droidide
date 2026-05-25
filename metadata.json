@@ -1,0 +1,6 @@
+{
+  "name": "DroidIDE",
+  "description": "Ambiente de desenvolvimento integrado (IDE) 100% local com IA para celular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
